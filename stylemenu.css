@@ -36,7 +36,28 @@ h1 {
 }
 #footer2 {
     background-color: #12577B;
-    margin-top: 441px;
+    margin-top: 250px;
     height: 44px;
     text-align: center;
+}
+#objetivo {
+    text-align: center;
+}
+ .curso {
+    margin-top: 50px;
+    margin-left: -30px;
+    list-style-position: inside;
+    text-align: center;
+}
+#curs{
+    text-align: center;
+}
+#sobre {
+    margin-top: 50px;
+}
+#voluntario {
+    margin-top: 50px;
+}
+#habilidades {
+    margin-top: 50px;
 }
